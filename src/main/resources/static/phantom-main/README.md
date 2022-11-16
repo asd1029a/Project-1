@@ -5,12 +5,12 @@ Phantom is an exciting professional Bootstrap resume template. It’s exclusivel
 <!-- demo -->
 ## Example Site
 
-| [![](../../static/screenshots/2.jpg)](https://demo.themefisher.com/phantom/) | [![](../../static/screenshots/4.jpg)](https://demo.themefisher.com/phantom/welcome.html) |  |
+| [![](../screenshots/2.jpg)](https://demo.themefisher.com/phantom/) | [![](../screenshots/4.jpg)](https://demo.themefisher.com/phantom/welcome.html) |  |
 |:---:|:---:|:---:|
 | **Home** | **Welcome**  | |
-| [![](../../static/screenshots/3.jpg)](https://demo.themefisher.com/phantom/about.html) | [![](../../static/screenshots/6.jpg)](https://demo.themefisher.com/phantom/services.html) | [![](../../static/screenshots/5.jpg)](https://demo.themefisher.com/phantom/resume.html) |
+| [![](../screenshots/3.jpg)](https://demo.themefisher.com/phantom/about.html) | [![](../screenshots/6.jpg)](https://demo.themefisher.com/phantom/services.html) | [![](../screenshots/5.jpg)](https://demo.themefisher.com/phantom/resume.html) |
 | **About**  | **Services**  | **Resume** |
-| [![](../../static/screenshots/7.jpg)](https://demo.themefisher.com/phantom/works.html) | [![](../../static/screenshots/8.jpg)](https://demo.themefisher.com/phantom/testimonials.html) | [![](../../static/screenshots/9.jpg)](https://demo.themefisher.com/phantom/contact.html) |
+| [![](../screenshots/7.jpg)](https://demo.themefisher.com/phantom/works.html) | [![](../screenshots/8.jpg)](https://demo.themefisher.com/phantom/testimonials.html) | [![](../screenshots/9.jpg)](https://demo.themefisher.com/phantom/contact.html) |
 | **Works**  | **Testimonials**  | **Contact** |
 
 👉🏻[View Live Preview](https://demo.themefisher.com/phantom/)

@@ -31,6 +31,7 @@
 
     <!-- Main Stylesheet -->
     <link rel="stylesheet" href="/css/style.css">
+    <link rel="stylesheet" href="/css/myCss.css">
 
     <!-- Theme Stylesheet -->
     <link rel="stylesheet" href="#" id="color-changer">
@@ -46,13 +47,18 @@
     <script src="/plugins/slick/slick.min.js"></script>
 
     <script src="/js/script.js"></script>
+    <script src="/js/login.js"></script>
 
     <th:block layout:fragment="script"></th:block>
     <th:block layout:fragment="css"></th:block>
 </head>
 <body>
     <div th:replace="fragments/header::header"></div>
-
+    <div class="top-login">
+        <span onclick="newMember();">new</span>
+        <span onclick="login();">login</span>
+        <span onclick="logout();">logout</span>
+    </div>
     <div layout:fragment="content" class="content">
 
     </div>
